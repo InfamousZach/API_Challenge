@@ -1,0 +1,34 @@
+body {
+    background: darkgoldenrod;
+} 
+
+h1 {
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    color: blue;
+    margin-top: 100px;
+    font-size: 34px;
+} 
+
+.card {
+    padding: 10px;
+    border-radius: 25px;
+    border: 50px solid red;
+    text-align: center;
+} 
+
+.card label {
+    text-transform: capitalize;
+} 
+
+.card img {
+    height: 256px;
+    width: 256px;
+} 
+
+.creative{
+    float: left;
+    width: 100px;
+    padding: 20px;
+} 
